@@ -1,0 +1,96 @@
+{
+  "program": "BSc (Hons) Software Engineering",
+  "university": "African Leadership University",
+  "structure": {
+    "total_years": 3,
+    "semesters_per_year": 3,
+    "total_credits": 480
+  },
+  "core_curriculum": [
+    {
+      "year": 1,
+      "semester": 1,
+      "modules": [
+        "Learning Processes",
+        "Reflective Thinking"
+      ]
+    },
+    {
+      "year": 1,
+      "semester": 2,
+      "modules": [
+        "FCSE - Programming (Python & Databases)",
+        "Self Leadership and Team Dynamics",
+        "Introduction to Linux & IT Tools"
+      ]
+    },
+    {
+      "year": 1,
+      "semester": 3,
+      "modules": [
+        "Frontend Web Development",
+        "Web Infrastructure",
+        "Responsible Enterprise"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 1,
+      "modules": [
+        "Communicating for Impact",
+        "Foundations Project",
+        "Enterprise Web Development"
+      ]
+    },
+    {
+      "year": 2,
+      "semester": 2,
+      "modules": [
+        "Introduction to Software Engineering",
+        "Skills Immersion 1"
+      ]
+    },
+    {
+      "year": 3,
+      "semester": 3,
+      "modules": [
+        "Ethics in Software Engineering",
+        "Mission Capstone"
+      ]
+    }
+  ],
+  "specializations": [
+    {
+      "track": "Machine Learning",
+      "modules": [
+        { "semester": "Year 2, S3", "courses": ["Mobile Application Development", "Mathematics for Machine Learning"] },
+        { "semester": "Year 3, S1", "courses": ["Introduction to Machine Learning", "Machine Learning Techniques - I"] },
+        { "semester": "Year 3, S2", "courses": ["Machine Learning Pipeline", "Machine Learning Techniques - II"] }
+      ]
+    },
+    {
+      "track": "Full-Stack Development",
+      "modules": [
+        { "semester": "Year 2, S3", "courses": ["Mobile Application Development", "Advanced Frontend Web Development"] },
+        { "semester": "Year 3, S1", "courses": ["Backend Web Development", "Cloud Computing Fundamentals"] },
+        { "semester": "Year 3, S2", "courses": ["DevOps & Deployment", "Web API Design"] }
+      ]
+    },
+    {
+      "track": "Low-Level Programming",
+      "modules": [
+        { "semester": "Year 2, S3", "courses": ["Mobile Application Development", "Programming in C"] },
+        { "semester": "Year 3, S1", "courses": ["Operating Systems Fundamentals", "Algorithms and Data Structures II"] },
+        { "semester": "Year 3, S2", "courses": ["Computer Architecture", "Embedded Systems"] }
+      ]
+    },
+    {
+      "track": "Augmented Reality / Virtual Reality (AR/VR)",
+      "modules": [
+        { "semester": "Year 2, S3", "courses": ["Mobile Application Development", "Programming in C#"] },
+        { "semester": "Year 3, S1", "courses": ["Unity Game Engine Basics", "3D Modeling for VR"] },
+        { "semester": "Year 3, S2", "courses": ["Immersive User Experience", "VR/AR Project Development"] }
+      ]
+    }
+  ]
+}
