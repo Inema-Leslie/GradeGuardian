@@ -71,4 +71,3 @@ class CourseService {
     return (year == 2 && semester >= 3) || year >= 3;
   }
 }
-
